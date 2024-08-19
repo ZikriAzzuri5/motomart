@@ -1,0 +1,23 @@
+.delivery-fee {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.delivery-address {
+  font-size: 1rem;
+}
+
+.address-name {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.address-detail {
+  font-size: 1rem;
+  color: #6c757d;
+}
+
+.d-grid {
+  margin-top: 1rem;
+}

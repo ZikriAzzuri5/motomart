@@ -1,0 +1,16 @@
+.table-container {
+  overflow-x: auto;
+}
+
+.table-container table {
+  width: 100%;
+}
+
+.qty-buttons {
+  display: flex;
+  align-items: center;
+}
+
+.qty-buttons button {
+  margin: 0 5px;
+}
